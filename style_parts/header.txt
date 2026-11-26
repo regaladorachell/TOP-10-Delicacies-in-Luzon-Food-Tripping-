@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Header</title>
+</head>
+<body>
+<div style="background-color: darkred; color: white; text-align: center; padding: 20px;">
+<h1>TOP 10 DELICACIES IN LUZON</h1>
+<p>Food Tripping Guide</p>
+</div>
+<p><a href="../index.html">Back to Complete Website</a></p>
+</body>
+</html>

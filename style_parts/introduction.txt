@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Introduction</title>
+</head>
+<body>
+<div style="text-align: center; padding: 20px;">
+<h2>Discover the Best Flavors of Luzon!</h2>
+<p>Welcome to our Food Tripping Guide!</p>
+</div>
+<p><a href="../index.html">Back to Complete Website</a></p>
+</body>
+</html>

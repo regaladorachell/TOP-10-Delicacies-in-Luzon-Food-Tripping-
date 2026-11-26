@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Food Picture</title>
+</head>
+<body>
+<div style="padding: 10px;">
+<h2>Ilocos Empanada</h2>
+<img src="../foodpicture/ilocos-empanada.jpg" alt="Ilocos Empanada" width="300">
+</div>
+<p><a href="../index.html">Back to Complete Website</a></p>
+</body>
+</html>

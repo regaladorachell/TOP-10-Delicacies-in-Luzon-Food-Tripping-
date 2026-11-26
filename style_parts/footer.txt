@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Footer</title>
+</head>
+<body>
+<div style="background-color: lightgray; text-align: center; padding: 15px;">
+<p>Top 10 Delicacies in Luzon - Food Tripping</p>
+</div>
+<p><a href="../index.html">Back to Complete Website</a></p>
+</body>
+</html>

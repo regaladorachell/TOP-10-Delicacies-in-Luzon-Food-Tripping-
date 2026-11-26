@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Background</title>
+</head>
+<body>
+<div style="background-color: lightyellow; padding: 20px;">
+<h2>Food Tripping in Luzon</h2>
+<p>Welcome to our food guide!</p>
+</div>
+<p><a href="../index.html">Back to Complete Website</a></p>
+</body>
+</html>
